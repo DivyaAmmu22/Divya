@@ -1,0 +1,6 @@
+c:\users\divya\documents\visual studio 2012\Projects\Task1Divya\Task1Divya\bin\Debug\Task1Divya.exe.config
+c:\users\divya\documents\visual studio 2012\Projects\Task1Divya\Task1Divya\bin\Debug\Task1Divya.exe
+c:\users\divya\documents\visual studio 2012\Projects\Task1Divya\Task1Divya\bin\Debug\Task1Divya.pdb
+c:\users\divya\documents\visual studio 2012\Projects\Task1Divya\Task1Divya\obj\Debug\Task1Divya.csprojResolveAssemblyReference.cache
+c:\users\divya\documents\visual studio 2012\Projects\Task1Divya\Task1Divya\obj\Debug\Task1Divya.exe
+c:\users\divya\documents\visual studio 2012\Projects\Task1Divya\Task1Divya\obj\Debug\Task1Divya.pdb
