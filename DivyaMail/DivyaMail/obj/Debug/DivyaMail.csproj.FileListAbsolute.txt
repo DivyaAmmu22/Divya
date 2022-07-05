@@ -1,0 +1,9 @@
+c:\users\divya\documents\visual studio 2012\Projects\DivyaMail\DivyaMail\bin\Debug\DivyaMail.exe.config
+c:\users\divya\documents\visual studio 2012\Projects\DivyaMail\DivyaMail\bin\Debug\DivyaMail.exe
+c:\users\divya\documents\visual studio 2012\Projects\DivyaMail\DivyaMail\bin\Debug\DivyaMail.pdb
+c:\users\divya\documents\visual studio 2012\Projects\DivyaMail\DivyaMail\obj\Debug\DivyaMail.csprojResolveAssemblyReference.cache
+c:\users\divya\documents\visual studio 2012\Projects\DivyaMail\DivyaMail\obj\Debug\DivyaMail.Form1.resources
+c:\users\divya\documents\visual studio 2012\Projects\DivyaMail\DivyaMail\obj\Debug\DivyaMail.Properties.Resources.resources
+c:\users\divya\documents\visual studio 2012\Projects\DivyaMail\DivyaMail\obj\Debug\DivyaMail.csproj.GenerateResource.Cache
+c:\users\divya\documents\visual studio 2012\Projects\DivyaMail\DivyaMail\obj\Debug\DivyaMail.exe
+c:\users\divya\documents\visual studio 2012\Projects\DivyaMail\DivyaMail\obj\Debug\DivyaMail.pdb
